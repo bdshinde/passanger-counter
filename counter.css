@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    text-align: center;
+    height: 100vh;
+}
+
+#save-el {
+
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+button {
+    background-color: white;
+    text-decoration-color: black solid;
+    border-radius: 8px;
+    font-size: medium;
+
+
+}
